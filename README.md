@@ -2,4 +2,6 @@
 # NBClassifier
 
 ## Today we created a NaiveBayes Classifier Model on a 7 Segment Display without using any in-built functions. We implemented this purely using math
+
+#### The below zip folder contains the python code, data sets for training and testing
 [day4.zip](https://github.com/sinister-001/NBClassifier/files/10185102/day4.zip)
